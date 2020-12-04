@@ -1,4 +1,17 @@
-to install dependecy use 
-install client 
-and then start npm start
-i have deployed api on heroku so apis are being fetched from internet 
+# Datagrokr_assignment
+Technology used:-
+Backend is developed using Node(express) -MongoDB is used for the database requirement.
+Reactjs is used for the front-end backend: 
+
+# Description:
+1:Create account.
+2:Login 
+3: Create Post 
+4: Click on each post to see the whole post where user can add comments and see the nested comments of others
+5: Dashboard for user information
+
+# To work the frontend
+Download-->open cmd--> npm install-->npm start
+
+
+
