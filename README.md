@@ -1,7 +1,7 @@
 # Datagrokr_assignment
 Technology used:-
 Backend is developed using Node(express) -MongoDB is used for the database requirement.
-Reactjs is used for the front-end backend: 
+Reactjs is used for the front-end backend: https://github.com/dileepkumarkethe/datagrokr_backend
 
 # Description:
 1:Create account.
